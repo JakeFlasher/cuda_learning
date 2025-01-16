@@ -1,9 +1,12 @@
 [submodule "cuda_prefetch_experiment"]
 	path = cuda_prefetch_experiment
 	url = https://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@github.com/JakeFlasher/cuda_prefetch_experiment.git
+	branch = master
 [submodule "h100-features"]
 	path = h100-features
 	url = https://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@github.com/JakeFlasher/h100-features.git
+	branch = main
 [submodule "fast.cu"]
 	path = fast.cu
 	url = https://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@github.com/JakeFlasher/fast.cu.git
+	branch = main
